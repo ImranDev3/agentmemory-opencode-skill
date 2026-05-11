@@ -8,7 +8,7 @@
 
 ## About
 
-This is an **OpenCode skill** for [agentmemory](https://github.com/rohitg00/agentmemory) - a persistent memory system for AI coding agents.
+**OpenCode Skill for agentmemory** - A persistent memory system that makes your AI coding agent remember everything across sessions. No more re-explaining your code, tech stack, or preferences. Built on the original agentmemory project.
 
 **What it does:**
 - Remembers everything across sessions
@@ -76,6 +76,19 @@ node dist/standalone.mjs
 - **Original Project:** [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)
 - **Author:** [rohitg00](https://github.com/rohitg00)
 - **License:** Apache 2.0
+
+---
+
+## About Me
+
+Hi! I'm Imran - a passionate developer who loves building tools for AI coding agents.
+
+This skill is my contribution to the OpenCode community, bringing the power of agentmemory to OpenCode users.
+
+**Connect with me:**
+- GitHub: [@ImranDev3](https://github.com/ImranDev3)
+
+Feel free to reach out if you have any questions or suggestions!
 
 ---
 
