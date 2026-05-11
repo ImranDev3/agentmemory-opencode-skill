@@ -1,0 +1,9 @@
+{
+  "mcp": {
+    "agentmemory": {
+      "type": "local",
+      "command": ["node", "dist/standalone.mjs"],
+      "enabled": true
+    }
+  }
+}
